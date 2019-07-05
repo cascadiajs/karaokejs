@@ -4,8 +4,8 @@ The repo for KaraokeJS, a meetup where people talk JavaScript and sing karaoke ð
 
 ## Next Meetup
 
-Date: TBD (August?)
-Location: TBD (see below)
+- Date: TBD (August?)
+- Location: TBD (see below)
 
 ## Suggesting a Karaoke Bar
 
